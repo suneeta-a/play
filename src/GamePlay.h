@@ -6,6 +6,14 @@
 class GamePlay
 {
 	private:
+		enum
+		{
+			LEVEL_KIDS,
+			LEVEL_TEEN,
+			LEVEL_MIDDLE,
+			LEVEL_FATHER,
+			LEVEL_GRAND_FATHER
+		};
 	public:
 		GamePlay();
 		~GamePlay();
