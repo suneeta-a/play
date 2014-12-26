@@ -1,2 +1,2 @@
 all:
-	g++ -o game ./source/Game.cpp ./Main.cpp
+	g++ -o game ./src/GamePlay.cpp ./Main.cpp
